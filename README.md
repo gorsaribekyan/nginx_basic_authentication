@@ -37,7 +37,7 @@ location /admin {
 - Restart NGINX server.
 
 ```
-systemctl status nginx
+sudo systemctl restart nginx
 ```
 
 All done.
